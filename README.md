@@ -28,7 +28,7 @@ To replicate this analysis:
 Alternatively, access the dataset via [Google Drive](https://drive.google.com/drive/folders/your-link-here) (if provided by instructor).
 
 ## Author
-**Em** - [GitHub Profile](https://github.com/yourusername)
+**Emily** - [GitHub Profile](https://github.com/rellimylime)
 
 Master of Environmental Data Science Candidate, Bren School of Environmental Science & Management, UC Santa Barbara
 
