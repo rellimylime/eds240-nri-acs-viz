@@ -36,7 +36,7 @@ Master of Environmental Data Science Candidate, Bren School of Environmental Sci
 ## References & Acknowledgements
 - Course materials developed by Sam Csik for EDS 240
 - Data source: FEMA National Risk Index (2025 Release)
-- Course website: [EDS 240 - Data Visualization & Communication](https://samanthacsik.github.io/EDS-240-data-viz/)
+- Course website: [EDS 240 - Data Visualization & Communication](https://eds-240-data-viz.github.io/)
 
 ## License
 This project is part of academic coursework and is shared for educational purposes.
