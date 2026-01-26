@@ -8,6 +8,7 @@ This repository contains data visualization work for EDS 240 (Data Visualization
 eds240-nri-acs-viz/
 ├── README.md
 ├── HW2.qmd                    # Visualization code and analysis
+├── HW2.pdf                    # Rendered visualization code
 ├── data/                      # Raw data files (gitignored)
 │   └── NRI_Table_Counties.csv
 └── .gitignore
