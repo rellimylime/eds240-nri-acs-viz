@@ -26,7 +26,7 @@ To replicate this analysis:
 2. Click the three dots → Export to CSV
 3. Place the downloaded file in the `data/` directory (not tracked by git)
 
-Alternatively, access the dataset via [Google Drive](https://drive.google.com/drive/folders/your-link-here) (if provided by instructor).
+Alternatively, access the dataset via [Google Drive](https://drive.google.com/file/d/1yoavLSBmJIMjVY9fQrT_rg8u6C-3v_v8/view?usp=sharing) (if provided by instructor).
 
 ## Author
 **Emily** - [GitHub Profile](https://github.com/rellimylime)
